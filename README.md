@@ -10,15 +10,14 @@
 ### Requirements
 
 1. **README.md contains:**
-    * name of the project
-    * names of the teammember
-    * purpose of the project (3-4 sentences what problem you are trying to solve);
-    * description of the project (target group – your customers/clients, how you differ from other apps – describe 2-3 similar applications/web services);
-    * functionalities of the app
-        * v0.1 It is possible to create user
-        * v0.2 User can add his/her interests
-        * ...
-    * **summary:** what did you learn? what did fail? what whould you do different next time?
+    * Idea list
+    * Laurynas Gailius
+    * I am writing 10 ideas a day, a need a nice neat place to keep and track them. I can always add new features that I need. It is only accessably be me, but my friends can also create their accounts to keep track of their lists.
+      * functionalities of the app
+        * v0.1 It is possible to create users and list down your ideas daily.
+        * v0.2 Favourite ideas, to have a separe lists of good/great ideas (because most of them is shit.)
+        * v0.3 Web push notifications and maybe email remainders if you going to miss a day.
+    * **summary:** Learnt basic PHP. Not going to leave tasks like these one night before the deadline. 
 
 
 2. **Web application/service requirements:**
